@@ -23,7 +23,7 @@ A modern weather application that provides real-time weather information for any
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/HeetDhanuka08/weather-app.git
 ```
 
 2. Get your API key from [OpenWeatherMap](https://openweathermap.org/api)
